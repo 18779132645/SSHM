@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSHE"
+  id="myeclipse.1458394839241"
+  context-root="/SSHE"
+  j2ee-spec="5.0"
+  archive="SSHE.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
